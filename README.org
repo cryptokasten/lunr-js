@@ -1,0 +1,20 @@
+#+TITLE: Lunr.js
+#+DESCRIPTION: Lunr.js is a small, full-text search library for use in the browser
+#+TAGS: cryptokasten, lunr, lunrjs, fulltext-search
+#+OPTIONS: ^:nil
+
+[[https://github.com/cryptokasten][file:https://img.shields.io/badge/dynamic/json.svg?url=https://api.github.com/users/cryptokasten&label=Cryptokasten&query=$.public_repos]]
+
+** Install
+
+- [[https://github.com/cryptokasten/lunr-js-in-docker][Lunr.js in docker]]
+
+** Usage
+
+- [[https://github.com/cryptokasten/lunr-js-basic-usage][Lunr.js basic usage]]
+
+- [[https://github.com/cryptokasten/lunr-js-russian-usage][Lunr.js: Russian language search]]
+
+- [[https://github.com/cryptokasten/lunr-js-serialize-index][Lunr.js serialize index]]
+
+- [[https://github.com/cryptokasten/lunr-js-load-index][Lunr.js load index from file]]
