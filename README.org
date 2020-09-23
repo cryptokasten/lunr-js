@@ -7,7 +7,7 @@
 
 ** About
 
-GitHub: [[https://github.com/olivernn/lunr.js/][olivernn/lunr.js]] [[file:https://img.shields.io/github/stars/olivernn/lunr.js?style=social]]
+GitHub: [[https://github.com/olivernn/lunr.js/][olivernn/lunr.js]] [[https://github.com/olivernn/lunr.js/][file:https://img.shields.io/github/stars/olivernn/lunr.js?style=social]]
 
 ** Install
 
